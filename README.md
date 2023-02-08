@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @GrazonJS
-- 👀 I’m interested in Front-end stuffs
-- 🌱 I’m currently learning Javascript
-- 📫 Reach me on Instagram-@js_grazon
+const graceshon = {
+   pronouns: "he" || "him",
+   aboutMe: ["web dev", "tech"],
+   technologies: {
+      frontEnd: [
+         "HTML",
+         "CSS",
+         "Javascript",
+         "React",
+         "Tailwind",
+      ],  
+      backEnd: ["nodeJS",],
+      dataBase: ["MongoDB"],
+      tools: ["git", "gitHub", "vsCode", "Discord", "figma"],
+   } 
 
 <!---
 GrazonJS/GrazonJS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
