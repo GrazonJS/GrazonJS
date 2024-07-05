@@ -1,6 +1,5 @@
 ~~~
 const graceshon = {
-   pronouns: "he" || "him",
    aboutMe: ["web dev", "tech"],
    technologies: {
       frontEnd: [
